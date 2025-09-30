@@ -1,0 +1,2 @@
+declare module "yt-search";
+
